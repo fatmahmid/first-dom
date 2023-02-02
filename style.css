@@ -1,0 +1,46 @@
+navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items:  center;
+    background-color: #F08080;
+    height: 100px;;
+    width: auto;
+    border-radius: 15px;
+}
+.mylist2{
+padding-top: 80px;
+}
+.liste1{
+    padding-top: 50px;
+    padding-left: 70px;
+display: flex;
+justify-content: space-between;}
+.minus:hover{
+    background-color: aqua;
+​
+}
+.add: hover { 
+    background-color: greenyellow;
+}
+.footer{
+    margin-top: 80px;
+    display: flex;    
+     justify-content: space-around;        
+       align-items: center;    
+       align-content: center;
+        background-color: #F08080;
+        height: 80px;
+        border-radius: 15px;
+    
+​
+}
+.btnfin:hover{
+    background-color: rgb(239, 247, 2);
+}
+.heart {
+    color: black;
+  }
+​
+  .heart.red {
+    color: red;
+  }
